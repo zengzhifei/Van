@@ -1,3 +1,3 @@
 # Van
 
-This is the Van framework what about PHP 
+这是一个PHP的简易Web框架。
